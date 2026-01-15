@@ -8,50 +8,50 @@ The project is intended for students and beginners who want hands-on practice wi
 
 ## Data Structures Covered:
 
--- Arrays
+1. Arrays
 
--- Linked List (Singly / Doubly)
+2. Linked List (Singly / Doubly)
 
--- Stack
+3. Stack
 
--- Queue
+4. Queue
 
--- Deque
+5. Deque
 
--- Trees (Binary Tree, BST)
+6. Trees (Binary Tree, BST)
 
--- Graphs (Basic Representation)
+7. Graphs (Basic Representation)
 
--- Hashing
+8. Hashing
 
--- Searching Algorithms
+9. Searching Algorithms
 
--- Sorting Algorithms
+10. Sorting Algorithms
 
 ## Operations Implemented:
 
--- Insertion
+1. Insertion
 
--- Deletion
+2. Deletion
 
--- Traversal
+3. Traversal
 
--- Searching
+4. Searching
 
--- Updating
+5. Updating
 
--- Sorting
+6. Sorting
 
 ## Technologies Used:
 
--- Programming Language:C++ / Python
+Programming Language:C++ / Python
 
 ## Objectives:
 
--- To understand core data structure concepts
+1. To understand core data structure concepts
 
--- To implement data structures from scratch
+2. To implement data structures from scratch
 
--- To analyze time and space complexity
+3. To analyze time and space complexity
 
--- To improve algorithmic thinking
+4. To improve algorithmic thinking
