@@ -1,12 +1,12 @@
-📂 Data Structures Implementation
+# 📂 Data Structures Implementation
 
-Overview
+## Overview:
 
 This repository contains implementations of commonly used Data Structures, designed to strengthen problem-solving skills and provide a clear understanding of how data is organized, stored, and manipulated in memory.
 
 The project is intended for students and beginners who want hands-on practice with core data structure concepts.
 
-Data Structures Covered:
+## Data Structures Covered:
 
 -- Arrays
 
@@ -28,7 +28,7 @@ Data Structures Covered:
 
 -- Sorting Algorithms
 
-Operations Implemented:
+## Operations Implemented:
 
 -- Insertion
 
@@ -42,11 +42,11 @@ Operations Implemented:
 
 -- Sorting
 
-Technologies Used:
+## Technologies Used:
 
 -- Programming Language:C++ / Python
 
-🎯 Objectives
+## Objectives:
 
 -- To understand core data structure concepts
 
