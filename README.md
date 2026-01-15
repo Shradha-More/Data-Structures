@@ -44,7 +44,7 @@ The project is intended for students and beginners who want hands-on practice wi
 
 ## Technologies Used:
 
-Programming Language:C++ / Python
+Programming Language: C++ / Python
 
 ## Objectives:
 
